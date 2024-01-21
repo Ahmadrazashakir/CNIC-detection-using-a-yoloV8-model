@@ -1,4 +1,4 @@
-# CNIC-detection-using-a-yoloV8-model
+# Machine Learning Tasks for key concepts
 -------------------------------------
 These files were basically assigned tasks to get a better understanding of ML concepts.
 Every task is indicated in the filename and the files contain the respective code and results.
